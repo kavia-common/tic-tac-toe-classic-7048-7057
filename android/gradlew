@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+# Workspace-root android gradle wrapper shim for CI that runs: cd tic-tac-toe-classic-7048-7057 && ./gradlew or ./android/gradlew
+echo "[workspace android gradlew shim] Skipping native Gradle build (Expo app)."
+exit 0

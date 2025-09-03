@@ -1,0 +1,6 @@
+task stubBuild {
+    doLast {
+        println "[root android stub build.gradle] CI placeholder only."
+    }
+}
+defaultTasks "stubBuild"

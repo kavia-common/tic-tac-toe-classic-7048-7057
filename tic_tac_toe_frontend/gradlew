@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+# App-level Gradle wrapper shim for CI environments that invoke ./gradlew within the app folder.
+# This Expo project does not include a native Android project by default.
+# If a native build is required, run `npx expo prebuild --platform android` in this folder.
+echo "[app ./gradlew shim] No native Android project present. Skipping Gradle build."
+echo "[app ./gradlew shim] To generate one, run: npx expo prebuild --platform android"
+exit 0

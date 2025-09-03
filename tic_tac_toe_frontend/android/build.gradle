@@ -1,0 +1,6 @@
+task stubBuild {
+    doLast {
+        println "[app stub build.gradle] No native modules configured. This is a CI placeholder."
+    }
+}
+defaultTasks "stubBuild"

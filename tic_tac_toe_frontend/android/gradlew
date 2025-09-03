@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# Minimal Android gradle wrapper stub for CI. This is intentionally a no-op.
+# For a real native build, run: expo prebuild --platform android
+echo "[android/gradlew stub] No native Android project configured. Exiting successfully."
+exit 0

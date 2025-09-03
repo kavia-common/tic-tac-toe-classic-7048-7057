@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactnative",
-    "slug": "reactnative",
+    "name": "Tic Tac Toe Classic",
+    "slug": "tic-tac-toe-classic",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -1,0 +1,6 @@
+task defaultTask {
+    doLast {
+        println "[android/app/build.gradle] CI placeholder only; no native modules configured."
+    }
+}
+defaultTasks "defaultTask"

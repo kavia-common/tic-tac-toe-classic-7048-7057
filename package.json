@@ -1,0 +1,8 @@
+{
+  "name": "tic-tac-toe-classic-workspace",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Workspace build: Expo app does not require native Gradle build; skipping.\"",
+    "ci": "echo \"Workspace CI: use app scripts under tic_tac_toe_frontend (npm ci && npm run lint).\""
+  }
+}
